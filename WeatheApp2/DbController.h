@@ -2,7 +2,7 @@
 //  DbController.h
 //  Fmdb
 //
-//  Created by 松尾 慎治 on 2016/03/30.
+//  Created by matsu on 2016/03/30.
 //  Copyright © 2016年 sample. All rights reserved.
 //
 

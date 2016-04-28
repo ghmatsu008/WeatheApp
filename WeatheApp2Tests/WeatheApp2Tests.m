@@ -2,7 +2,7 @@
 //  WeatheApp2Tests.m
 //  WeatheApp2Tests
 //
-//  Created by 松尾 慎治 on 2016/04/01.
+//  Created by matsu on 2016/04/01.
 //  Copyright © 2016年 sample. All rights reserved.
 //
 
